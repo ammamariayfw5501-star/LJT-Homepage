@@ -1,5 +1,5 @@
 ---
-permalink: /posts/disabled-4/
+permalink: /sitemap/
 layout: single
 title: ""
 author_profile: false
